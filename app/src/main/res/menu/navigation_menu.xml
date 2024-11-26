@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Profile" />
+    <item
+        android:id="@+id/nav_certificate"
+        android:icon="@drawable/certificate"
+        android:title="Certificate" />
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/chat"
+        android:title="Chat" />
+    <item
+        android:id="@+id/nav_score"
+        android:icon="@drawable/score"
+        android:title="Score" />
+</menu>
